@@ -70,4 +70,6 @@ This dataset is primarily used to:
 - run the main.py through Streamlit run main.py command in terminal
 
 ---
+## Libraries
+![Image](https://github.com/user-attachments/assets/7e813c7c-8263-4e77-a1ab-88c9149d4a95)
 
