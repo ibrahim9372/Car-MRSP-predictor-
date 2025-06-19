@@ -72,4 +72,5 @@ This dataset is primarily used to:
 ---
 ## Libraries
 ![Image](https://github.com/user-attachments/assets/7e813c7c-8263-4e77-a1ab-88c9149d4a95)
-
+## sample output 
+https://github.com/ibrahim9372/Car-MRSP-predictor-/issues/2#issue-3161028790
